@@ -1,7 +1,7 @@
 ##Addressbook Tutorialll
 Niladris second change
-= by==================== hello eeeee
-This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be "todays chages"
+= by==================== hello everyone
+This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be "todays changes"
 a fast read for learning how to get started -ddd not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work..  test test test test test test fdfd akshaaattt hi world i am great heloo hellooo testeeeccccccc test test
 ssss
@@ -30,7 +30,7 @@ To get the project up and running in IDEA, do:
   - Vaadin Web Application -> Plugins -> jetty -> jetty:run
   - Click the play button or right click and select Run (Select Debug instead to run in debug mode)
 
-You should now have a Jetty server running on localhost:8080. Navigate to http://localhost:8080 to play with the application
+You should now have a Jetty server which would be running on localhost:8080. Navigate to http://localhost:8080 to play with the application
 
 Importing in NetBeans 8
 --------------------
